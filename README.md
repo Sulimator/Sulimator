@@ -24,11 +24,10 @@ This project aimed to test different network architectures to address the gradie
 - Densely Connected Networks
 
 ### Deliryum
-🔭 Currently, in my second professional internship, I am working with the Deliryum team, focusing on monitoring for risk prevention using artificial intelligence in the port sector, mining, and animal care.
+🔭 During my second professional internship, I worked with the Deliryum team, focusing on monitoring for risk prevention using artificial intelligence in the port sector, mining, and animal care.
 
-## Current Interests
-I am passionate about crypto technology, data science, artificial intelligence, electrical engineering, innovation projects, and investment.
+## Skills
+I excel in fast learning, effective problem-solving, leadership, teamwork, organization, and efficiency.
 
----
 
-Feel free to connect with me via Whatsapp (+56994088707) or mail t.sulimalyczkowski@ug.uchile.cl
+Feel free to connect with me via Whatsapp (+56994088707), mail t.sulimalyczkowski@ug.uchile.cl or linkedin linkedin/tomas-sulima-lyczkowski
