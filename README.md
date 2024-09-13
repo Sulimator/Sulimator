@@ -29,5 +29,5 @@ This project aimed to test different network architectures to address the gradie
 ## Skills
 I excel in fast learning, effective problem-solving, leadership, teamwork, organization, and efficiency.
 
-
+## Contact
 Feel free to connect with me via Whatsapp (+56994088707), mail t.sulimalyczkowski@ug.uchile.cl or linkedin linkedin/tomas-sulima-lyczkowski
