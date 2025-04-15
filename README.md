@@ -8,9 +8,7 @@ My main strengths are machine learning, advanced image processing, data science,
 ## Working Experience
 
 ### ALeRCE Astronomy Broker
-🌟 During my first professional internship, I developed a preliminary step in the ALeRCE pipeline to incorporate DELIGHT into its operation. This step improved the pipeline's ability to process astronomical alerts more efficiently.
-
-- [ALeRCE Pipeline Monorepo with new step: Delight step](https://github.com/alercebroker/pipeline)
+🌟 During my first professional internship, I developed a preliminary step in the ALeRCE pipeline to incorporate DELIGHT into its operation. 
 
 ### Convolutional ResNet Networks Project
 This project aimed to test different network architectures to address the gradient vanishing problem.
